@@ -17,5 +17,7 @@
 - [1.5.时间语义与watermark](flink/basic/5.时间语义与watermark.md)
 - [1.6 6状态管理.md](flink/basic/6状态管理.md)
 - [1.7.processFunction.md](flink/basic/7.processFunction.md)
+- [1.8.容错机制](flink/basic/8.容错机制.md)
+- [1.9.flink状态一致性](flink/basic/9.flink状态一致性.md)
 
 ## elasticsearch
