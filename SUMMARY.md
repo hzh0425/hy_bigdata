@@ -4,7 +4,7 @@
 
 - [1.2分布式共识算法-raft详解](basic/2.raft算法.md)
 
-
+- [1.3raft算法论文翻译版本](basic/3.raft论文翻译.md)
 
 ## Flink
 
